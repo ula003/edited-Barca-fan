@@ -1,0 +1,9 @@
+h1 {
+    color: rgba(247, 20, 20, 0.918);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.output{
+    color:red;
+    background-color: gray;
+}
